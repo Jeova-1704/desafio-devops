@@ -1,3 +1,9 @@
+### Arquivos:
+- [main.tf original](./arquivo%20original/mainOriginal.tf)
+- [main.tf alterado](main.tf)
+
+
+
 
 ### 1. Análise Técnica do Código Terraform → [main.tf original](./arquivo%20original/mainOriginal.tf)
 O [main.tf original](./arquivo%20original/mainOriginal.tf) está configurado para provisionar uma infraestrutura básica na AWS que inclui a criação de uma Virtual Private Cloud (VPC), sub-rede, tabela de rotas, grupo de segurança, gateway de internet, uma instância EC2 e chaves SSH para acesso seguro à instância
